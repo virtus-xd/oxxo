@@ -208,7 +208,7 @@ export default function Contact() {
 
         <div className={`h-96 bg-zinc-800 overflow-hidden transition-all duration-1000 delay-500 ${isVisible ? 'opacity-100' : 'opacity-0'}`}>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3179.8423423427735!2d37.3825!3d37.0662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDAzJzU4LjMiTiAzN8KwMjInNTcuMCJF!5e0!3m2!1str!2str!4v1234567890123"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14458.817726299214!2d32.478126230057235!3d37.88827705045293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d0857e6be1049d%3A0xa606a7362222e139!2sOXXO%20Mimarl%C4%B1k!5e0!3m2!1str!2str!4v1760878731334!5m2!1str!2str"
             width="100%"
             height="100%"
             style={{ border: 0, filter: 'grayscale(100%) invert(90%)' }}
